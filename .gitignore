@@ -3,3 +3,4 @@ Bahie_recomendation
 license.txt
 .venv/*
 run_fmriprep.sh
+ds007436-download/*
