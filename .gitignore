@@ -2,3 +2,4 @@ original_dataset/*
 Bahie_recomendation
 license.txt
 .venv/*
+run_fmriprep.sh
