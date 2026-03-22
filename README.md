@@ -1,6 +1,6 @@
 # Machine Learning Neurocomputational Mechanisms of Human Multisensory Learning
-## Abstract
 Project status: Ongoing 
+## Abstract
 ## Introduction
 ## Methods
 ## Results
