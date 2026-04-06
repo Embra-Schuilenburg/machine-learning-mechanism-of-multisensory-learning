@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -uo pipefail
 
-BIDS_DIR="/media/peripheral/Code/Comp432/machine-learning-mechanism-of-multisensory-learning/ds007436"
+BIDS_DIR="/media/peripheral/Code/Comp432/machine-learning-mechanism-of-multisensory-learning/original-dataset"
 OUT_DIR="/media/peripheral/Code/Comp432/dataset/derivatives"
 WORK_DIR="/media/peripheral/Code/Comp432/dataset/work"
 FS_LICENSE="/media/peripheral/Code/Comp432/machine-learning-mechanism-of-multisensory-learning/license.txt"
