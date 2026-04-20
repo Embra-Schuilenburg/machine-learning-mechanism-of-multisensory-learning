@@ -27,21 +27,7 @@ To investigate these questions, this project uses the BIDS-formatted fMRI datase
 
 ## Methods, Discussion, and Conclusions
 
-To learn more about the subjects explored in this project please see the primary report: [here]([url](https://github.com/Embra-Schuilenburg/machine-learning-mechanism-of-multisensory-learning/blob/master/an-exploration-of-machine-learning-for-neurocomputational-mechanisms-of-human-multisensory-learning.ipynb)). 
-
-⠀⠀⡔⠉⠑⢤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣰⠋⠉⠉⠓⡆⠀⠀
-⠀⣸⠁⠀⠀⠀⠙⢦⡀⢸⡉⠓⠲⣄⡀⢀⡞⠀⠀⠀⠀⣀⣽⡤⠀
-⠀⡇⠀⠀⠀⠀⠀⠀⠙⣦⠷⠄⠀⠀⠙⠞⠀⠀⠀⠀⠀⠒⠚⡏⠁
-⠀⡇⠀⠀⠀⠀⣀⣀⡚⠓⠒⠒⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀
-⠀⡇⠀⠀⠀⡎⠀⠀⠈⡆⠀⠀⠀⠀⠘⢄⣀⣀⡀⠀⠀⠀⣸⠁⠀
-⠀⠈⣇⠀⠐⡶⠖⣲⣶⡆⠀⠀⠀⠀⣶⣶⡒⠲⡒⠀⢀⡼⠁⠀⠀
-⠰⣖⠺⠧⢸⠁⠀⣿⣿⠇⠀⠀⠀⠀⣿⣿⠇⠀⡇⠀⠉⣩⠇⠀⠀
-⠀⠈⣳⠀⣨⢃⠀⠈⠉⠀⠒⠂⠀⠀⠈⠁⢀⠄⡡⠀⢼⡁⠀⠀⠀
-⠀⢰⣃⣈⣀⠁⠀⠀⠀⠦⠔⠓⠲⡲⠃⠀⠀⢈⣀⣀⣀⣹⡄⠀⠀
-⠀⠀⠀⠀⠀⠉⢳⠲⠤⢄⣀⣀⣀⣠⢶⠒⣏⠉⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠈⣳⠒⢲⠋⢱⠤⠧⠚⠋⠘⡆⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠘⠓⡆⠈⠒⠁⠀⠀⠀⠀⠀⢹⡀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⣼⣁⣀⣀⣀⣀⣀⣀⣀⣀⣀⡇⠀⠀⠀⠀⠀⠀
+To learn more about the subjects explored in this project please see the primary report: [here]([url](https://github.com/Embra-Schuilenburg/machine-learning-mechanism-of-multisensory-learning/blob/master/an-exploration-of-machine-learning-for-neurocomputational-mechanisms-of-human-multisensory-learning.ipynb)). ⠀⠀⠀
 
 ## References
 [1] S. Bedi, E. Casimiro, G. de Hollander, N. Raduner, F. Helmchen, S. Brem, A. Konovalov, and C. C. Ruff, “Separable neurocomputational mechanisms underlying multisensory learning,” bioRxiv, 2026, doi: 10.1101/2025.11.18.688925.
