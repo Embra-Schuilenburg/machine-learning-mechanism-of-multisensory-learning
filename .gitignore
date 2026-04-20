@@ -1,7 +1,10 @@
-original_dataset/*
+original-dataset/*
 Bahie_recomendation
 license.txt
 .venv/*
 run-fmriprep.sh
 ds007436-download/*
 ds007436/*
+scratch*
+plans.txt
+wandb/*
