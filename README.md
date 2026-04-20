@@ -8,8 +8,6 @@ The original hypothesis, that shared neural representations of V and surprise ha
 
 ## Introduction
 
-## **Introduction**
-
 Neuroimaging is the use of digital technologies to study the physiology of central nervous systems. It's a field with broad applications and many methods, one of which is functional magnetic resonance imaging (fMRI). fMRI detects and images brain activity by measuring the flow of blood through different parts of the brain. The underlying principles of fMRI imaging are that:
 
 1) as parts of the brain activate, the oxygenated blood within them becomes deoxygenated, and is replaced by a flow of new oxygenated blood; and
