@@ -29,8 +29,8 @@ To investigate these questions, this project uses the BIDS-formatted fMRI datase
   - ROI within-trial sequences
   - ROI within-trial summary values (e.g. early activation or late activation) averaged over windows
 - Implement and assess new models on current and future fMRI encodings:
-  - Support Vector Machines
-  - Random Forests
+  - Support vector machines
+  - Random forests
 
 ## Methods, Discussion, and Conclusions
 
