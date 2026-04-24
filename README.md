@@ -1,5 +1,5 @@
 # Machine Learning Neurocomputational Mechanisms of Human Multisensory Learning
-Project status: Ongoing 
+Project status: Ongoing
 ## Abstract
 
 This project explores the application of machine learning to predicting neural signals related to human reinforcement learning, focusing on whether shared modeling of separate but connected signals improves prediction performance. Using a BIDS-formatted fMRI dataset from 58 participants performing a multisensory reinforcement learning task across six runs, preprocessed with fMRIPrep and reduced to ROI-level features, this project investigates events in which the learning signals value (V) and surprise are defined. For each event, BOLD activity is extracted following an HRF delay and used to predict V and surprise either independently or jointly. Performance is evaluated using R-squared, mean squared error, and Pearson correlation, along with statistical comparisons between modeling approaches.
@@ -22,6 +22,15 @@ It was shown in [1] that fMRI may encode V and surprise through the use of fMRI 
 The fact that these signals can be represented through fMRI data begs the question of whether or not the values of these signals could be decoded from raw fMRI data. The present project builds on [1]'s work and tries to answer the aforementioned question from a machine learning (ML) perspective. Rather than using model-based fMRI analysis to identify where these signals are represented, this project asks whether preprocessed ROI-level BOLD activity can be used to predict the learning variables V and surprise themselves through regression. Furthermore, if the two signals rely on partially shared neural information, then joint modeling may improve performance relative to training separate models for each target. The central research question is therefore whether V and surprise can be decoded from ROI-based fMRI features, and whether MT learning provides an advantage over ST approaches.
 
 To investigate these questions, this project uses the BIDS-formatted fMRI dataset of [1], [2], which was collected from participants performing the reinforcement learning task across six runs, with each run containing 120 trials (60 choice-based and 60 feedback-based). The imaging data is preprocessed with fMRIPrep, then reduced from voxel-based representations to region-of-interest (ROI)-level representations to make downstream modeling more computationally manageable and less vulnerable to overfitting. From these processed runs, choice-phase events were aligned with their corresponding learning targets, and BOLD activity was extracted after an appropriate hemodynamic response delay so that each event could be represented as a feature vector paired with a V or surprise label. This framing turns the problem into a supervised learning task in which neural activity is used to predict latent computational signals associated with learning from brain ROIs.
+
+## Future plans
+
+- Develop and assess new fMRI encodings:
+  - ROI within-trial sequences
+  - ROI within-trial summary values (e.g. early activation or late activation) averaged over windows
+- Implement and assess new models on current and future fMRI encodings:
+  - Support Vector Machines
+  - Random Forests
 
 ## Methods, Discussion, and Conclusions
 
